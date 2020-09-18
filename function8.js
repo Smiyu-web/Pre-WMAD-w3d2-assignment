@@ -5,7 +5,7 @@ let sentence = "I am a sentence"
 
 
 const splitSentence= function (str) {
-  console.log(str.split(' '))
+  console.log(str.split(' '));
 };
 
 splitSentence(sentence);
